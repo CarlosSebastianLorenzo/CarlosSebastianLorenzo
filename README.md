@@ -11,7 +11,7 @@
 
 Languages and Tools:
 Visual Studio Code HTML5 CSS3 JavaScript Vue TyepSecript Angular Java Spring Boot MySQL JWT NPM Git GitHub Koyeb Postman
-![HTML5](https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png)
+<div style="width: 20px; heigth: 20px;"![HTML5](https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png)</div>
 <!--
 **CarlosSebastianLorenzo/CarlosSebastianLorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
