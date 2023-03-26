@@ -7,7 +7,11 @@
 
 - 🔭 I’m currently working as an administrator at Lorenzo Carlos Urbano's rice mill.
 
-- 🌱 I’m currently learning **Vue**
+- 🌍 I live in San Salvador, Entre Ríos, Argentina.
+
+- 🥅 Goals for 2023: Start my career in web development.
+
+- 🌱 I’m about to start to Learn **Stack MERN**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/CarlosSebastianLorenzo](https://github.com/CarlosSebastianLorenzo)**
 
