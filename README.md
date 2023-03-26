@@ -19,7 +19,7 @@
 
 - ⚡ Like to **play Videogames, read, watch Anime, dance Tango**
 
-<h3 align="left" style={"backgroundColor: blue"}>Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-sebastian-367249175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/cinthya-dirisio" height="30" width="40" /></a>
 <a href="https://discord.gg/CarlosSebastianLorenzo#2937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CarlosSebastianLorenzo#2937" height="30" width="40" /></a>
@@ -41,7 +41,8 @@
     <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="ApacheNetBeans" width="40" height="40"/></a>
     <a href="https://www.oracle.com/ar/java/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/></a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="Spring Boot" width="40" height="40"/></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+     <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://jwt.io/img/pic_logo.svg" alt="Spring Boot" width="40" height="40"/></a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="JsonWebToken" width="40" height="40"/></a>
     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
     <a href="https://www.koyeb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn2.systemsdigest.com/sites/default/files/logos/koyeb-thumb.png" alt="Koyeb" width="40" height="40"/></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968521.png" alt="MySQL" width="40" height="40"/></a>
