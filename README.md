@@ -1,4 +1,4 @@
-<center># Hi there 👋, I'm **Seba** 😀</center>
+# Hi there 👋, I'm **Seba** 😀
 ---
 
 - 🔭 I’m currently working on ...
