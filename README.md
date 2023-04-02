@@ -17,8 +17,6 @@
 
 - 😄 Chek my Portfolio: **[https://cslportfolio.web.app/portfolio/1](https://cslportfolio.web.app/portfolio/1)**
 
-- 💬 Ask me about **CSS**
-
 - 📫 How to reach me: **[carlossebastianlonrenzo@gmail.com](mailto:carlossebastianlorenzo@gmail.com)**
 
 - ⚡ Like to **play Videogames, read, watch Anime, dance Tango**
