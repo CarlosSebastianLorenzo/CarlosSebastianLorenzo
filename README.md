@@ -11,7 +11,7 @@
 
 - 🥅 Goals for 2023: Start my career in web development.
 
-- 🌱 I’m about to start to Learn **Stack MERN**
+- 🌱 I’m Learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/CarlosSebastianLorenzo](https://github.com/CarlosSebastianLorenzo)**
 
