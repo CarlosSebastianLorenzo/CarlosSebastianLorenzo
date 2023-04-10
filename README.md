@@ -41,6 +41,7 @@
     <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular" width="40" height="40"/> </a>
     <a href="https://beta.es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" alt="React" width="40" height="40"/> </a>
      <a href="https://es.vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://es.vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/> </a>
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="Firebase" width="40" height="40"/></a>
     <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="ApacheNetBeans" width="40" height="40"/></a>
     <a href="https://www.oracle.com/ar/java/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/></a>
