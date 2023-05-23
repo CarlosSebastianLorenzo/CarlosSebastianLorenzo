@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=900 src="https://github-profile-trophy.vercel.app/?username=carlossebastianlorenzo&column=8&theme=dark_lover&no-frame=true"/>
+    <img width=900 src="https://github-profile-trophy.vercel.app/?username=carlossebastianlorenzo&column=8&no-frame=true"/>
   </a>
 </p>
 
