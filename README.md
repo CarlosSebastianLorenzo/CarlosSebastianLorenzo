@@ -50,6 +50,7 @@
     <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Emblem.jpg" alt="MongoDB" width="40" height="40"/> </a>
    <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrXjckwvuYvbgBisgfgOtpRYaD71l8gg8-dQ&usqp=CAU" alt="NodeJS" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="Firebase" width="40" height="40"/></a>
     <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="ApacheNetBeans" width="40" height="40"/></a>
     <a href="https://www.oracle.com/ar/java/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/></a>
