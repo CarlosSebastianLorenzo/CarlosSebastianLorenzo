@@ -48,7 +48,7 @@
     <a href="https://beta.es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1024px-React.svg.png" alt="React" width="40" height="40"/> </a>
      <a href="https://es.vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://es.vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/> </a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Emblem.jpg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/627ba6588811eca90ffd6f2a/62eaeb8a0e04522f1c18fab3_mongodb.png" alt="MongoDB" width="40" height="40"/> </a>
    <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrXjckwvuYvbgBisgfgOtpRYaD71l8gg8-dQ&usqp=CAU" alt="NodeJS" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express" width="40" height="40"/> </a>
     <a href="https://firebase.google.com/?hl=es" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" alt="Firebase" width="40" height="40"/></a>
