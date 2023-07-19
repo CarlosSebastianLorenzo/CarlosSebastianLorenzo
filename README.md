@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: **[carlossebastianlonrenzo@gmail.com](mailto:carlossebastianlorenzo@gmail.com)**
 
-- ⚡ Like to **play Videogames, read, watch Anime, dance Tango**
+- ⚡ Like to **play Videogames, read, dance Tango**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
